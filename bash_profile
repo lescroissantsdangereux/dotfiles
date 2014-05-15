@@ -8,7 +8,7 @@ set -o vi
 #export PATH="/usr/local/bin:$PATH"
 
 # Path to bash_it configuration
-export BASH_IT="$HOME/.bash_it"
+export BASH_IT="$HOME/.bash-it"
 
 # set custom theme 
 export BASH_IT_THEME="powerline"
