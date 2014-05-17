@@ -1,0 +1,6 @@
+# VIM noise
+*.swp
+
+# OSX noise
+.DS_Store
+.localized

@@ -9,7 +9,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
 " plugins
-Plugin 'gmarik/vundle.vim'
+Plugin 'gmarik/Vundle.vim'
 Plugin 'bling/vim-airline'
 Plugin 'rking/ag.vim'
 Plugin 'kien/ctrlp.vim'
