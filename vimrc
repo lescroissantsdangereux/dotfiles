@@ -73,7 +73,7 @@ nmap <Leader>t :Tabularize<Space>/
 
 "CtrlP shortcuts
 let g:ctrlp_cmd = 'CtrlPMixed'
-nmap <silent> <F5> :CtrlPBuffer<CR>
+nmap <silent> <F5> :ls<CR>
 nnoremap <silent> <Leader>l :CtrlPLine<CR>
 
 "easymotion
