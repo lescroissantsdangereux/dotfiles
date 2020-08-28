@@ -1,3 +1,5 @@
+# This line sets readline to display possible completions using different colors to indicate their file types.
+set colored-stats on
 
 # Make Tab autocomplete regardless of filename case
 set completion-ignore-case on
